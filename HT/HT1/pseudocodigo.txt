@@ -1,0 +1,14 @@
+Daniel Colindres - 201404445
+
+Hoja de trabajo 1
+
+1- Ingresar al portal de asignación
+2- Seleccionar el curso a asignar
+3- Tiene ganados los requisitos
+4- No: no se puede asignar al curso
+5- Si: seleccione sección
+6- Si hay cupo: está asignado a esta clase
+7- No hay cupo: seleccione otro cupo para asignarse
+8- Regrese al paso 5 y si paso por segunda vez avance al otro paso
+9- Si no hay cupo en las secciones: intente abrir una nueva sección
+10-No se pudo asignar a IPC 1
